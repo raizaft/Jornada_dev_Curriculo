@@ -1,2 +1,8 @@
-# raizaft.github.io
-Curriculo do Jornada Dev
+## Olá
+
+#### Bio
+
+Iniciando agora...
+
+#### raizaft.github.io
+#### Curriculo do Jornada Dev
